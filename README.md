@@ -2,6 +2,8 @@
 
 > **Analyze. Understand. Visualize.** — Powered by VADER & TextBlob
 
+🌐 **Live Demo:** [ai-text-analyzergit-elifkanik.streamlit.app](https://ai-text-analyzergit-elifkanik.streamlit.app/)
+
 A Python-based web application that analyzes English text using two independent NLP sentiment engines — VADER and TextBlob — alongside a full text statistics pipeline. Built with Streamlit for an interactive, metrics-driven interface.
 
 ---
@@ -128,6 +130,8 @@ ai-text-analyzer/
 # 🇹🇷 Türkçe
 
 > **Analiz Et. Anla. Görselleştir.** — VADER ve TextBlob ile çalışır
+
+🌐 **Canlı Demo:** [ai-text-analyzergit-elifkanik.streamlit.app](https://ai-text-analyzergit-elifkanik.streamlit.app/)
 
 İngilizce metinleri iki bağımsız NLP duygu analizi motoru — VADER ve TextBlob — kullanarak analiz eden, Streamlit tabanlı Python web uygulaması. Arayüz tamamen tablo ve metrik kartı odaklı olup herhangi bir grafiğe ihtiyaç duymaz.
 
